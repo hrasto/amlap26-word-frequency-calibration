@@ -1,0 +1,47 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+*.pkl
+
+# BLP data
+blp-items.txt
+blp-stimuli.txt
+blp-trials.txt
+*.h5
+*.npy
+*.npz
+# LDA model artifacts
+lda_model*
+gensim_*
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+*.zip
+
+data/*/
+!data/movie_to_year.csv
+
+AMLaP2026-LaTeX-Template/
