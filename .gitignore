@@ -43,5 +43,6 @@ Thumbs.db
 
 data/*/
 !data/movie_to_year.csv
+.claude/
 
 AMLaP2026-LaTeX-Template/

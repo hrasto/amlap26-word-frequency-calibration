@@ -1,5 +1,0 @@
-gensim
-numpy
-pandas
-matplotlib
-seaborn
