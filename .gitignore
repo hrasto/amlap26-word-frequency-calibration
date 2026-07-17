@@ -41,8 +41,13 @@ Thumbs.db
 
 *.zip
 
-data/*/
-!data/movie_to_year.csv
+data/BLP
+data/OpenSubtitles
+data/SWOW-EN18
+data/topviews
+data/topviews
+data/Wikipedia
+
 .claude/
 
 AMLaP2026-LaTeX-Template/*
