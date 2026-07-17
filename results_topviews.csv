@@ -1,81 +1,81 @@
-,n_comp,corpus,pages,lda,freq,lda_topviews
-0,2,en_wiki,Deaths in 2025,0.34418,0.32782,-4e-05
-1,2,en_wiki,Charlie Kirk,0.34418,0.32782,0.33996
-2,2,en_wiki,ChatGPT,0.34418,0.32782,0.33215
-3,2,en_wiki,Ed Gein,0.34418,0.32782,0.3442
-4,2,en_wiki,Donald Trump,0.34418,0.32782,0.3316
-5,2,en_wiki,Zohran Mamdani,0.34418,0.32782,0.33985
-6,2,en_wiki,Elon Musk,0.34418,0.32782,0.33654
-7,2,en_wiki,Sinners (2025 film),0.34418,0.32782,0.34304
-8,2,en_wiki,Ozzy Osbourne,0.34418,0.32782,0.34205
-9,2,en_wiki,Superman (2025 film),0.34418,0.32782,0.34314
-10,3,en_wiki,Deaths in 2025,0.37036,0.32782,-0.0
-11,3,en_wiki,Charlie Kirk,0.37036,0.32782,0.30064
-12,3,en_wiki,ChatGPT,0.37036,0.32782,0.32896
-13,3,en_wiki,Ed Gein,0.37036,0.32782,0.32724
-14,3,en_wiki,Donald Trump,0.37036,0.32782,0.27607
-15,3,en_wiki,Zohran Mamdani,0.37036,0.32782,0.29443
-16,3,en_wiki,Elon Musk,0.37036,0.32782,0.30803
-17,3,en_wiki,Sinners (2025 film),0.37036,0.32782,0.34196
-18,3,en_wiki,Ozzy Osbourne,0.37036,0.32782,0.32972
-19,3,en_wiki,Superman (2025 film),0.37036,0.32782,0.34404
-20,4,en_wiki,Deaths in 2025,0.37406,0.32782,-0.0
-21,4,en_wiki,Charlie Kirk,0.37406,0.32782,0.282
-22,4,en_wiki,ChatGPT,0.37406,0.32782,0.31499
-23,4,en_wiki,Ed Gein,0.37406,0.32782,0.31301
-24,4,en_wiki,Donald Trump,0.37406,0.32782,0.24925
-25,4,en_wiki,Zohran Mamdani,0.37406,0.32782,0.26763
-26,4,en_wiki,Elon Musk,0.37406,0.32782,0.28193
-27,4,en_wiki,Sinners (2025 film),0.37406,0.32782,0.32177
-28,4,en_wiki,Ozzy Osbourne,0.37406,0.32782,0.30547
-29,4,en_wiki,Superman (2025 film),0.37406,0.32782,0.32675
-30,5,en_wiki,Deaths in 2025,0.37365,0.32782,-0.0
-31,5,en_wiki,Charlie Kirk,0.37365,0.32782,0.26952
-32,5,en_wiki,ChatGPT,0.37365,0.32782,0.29944
-33,5,en_wiki,Ed Gein,0.37365,0.32782,0.30599
-34,5,en_wiki,Donald Trump,0.37365,0.32782,0.23895
-35,5,en_wiki,Zohran Mamdani,0.37365,0.32782,0.25541
-36,5,en_wiki,Elon Musk,0.37365,0.32782,0.27257
-37,5,en_wiki,Sinners (2025 film),0.37365,0.32782,0.31788
-38,5,en_wiki,Ozzy Osbourne,0.37365,0.32782,0.30121
-39,5,en_wiki,Superman (2025 film),0.37365,0.32782,0.32166
-40,2,en_subtitles,Deaths in 2025,0.42189,0.4164,-0.0
-41,2,en_subtitles,Charlie Kirk,0.42189,0.4164,0.42006
-42,2,en_subtitles,ChatGPT,0.42189,0.4164,0.41863
-43,2,en_subtitles,Ed Gein,0.42189,0.4164,0.42071
-44,2,en_subtitles,Donald Trump,0.42189,0.4164,0.4176
-45,2,en_subtitles,Zohran Mamdani,0.42189,0.4164,0.42109
-46,2,en_subtitles,Elon Musk,0.42189,0.4164,0.41957
-47,2,en_subtitles,Sinners (2025 film),0.42189,0.4164,0.4218
-48,2,en_subtitles,Ozzy Osbourne,0.42189,0.4164,0.42166
-49,2,en_subtitles,Superman (2025 film),0.42189,0.4164,0.42075
-50,3,en_subtitles,Deaths in 2025,0.43458,0.4164,-0.0
-51,3,en_subtitles,Charlie Kirk,0.43458,0.4164,0.42491
-52,3,en_subtitles,ChatGPT,0.43458,0.4164,0.42406
-53,3,en_subtitles,Ed Gein,0.43458,0.4164,0.42307
-54,3,en_subtitles,Donald Trump,0.43458,0.4164,0.42037
-55,3,en_subtitles,Zohran Mamdani,0.43458,0.4164,0.42731
-56,3,en_subtitles,Elon Musk,0.43458,0.4164,0.42605
-57,3,en_subtitles,Sinners (2025 film),0.43458,0.4164,0.42876
-58,3,en_subtitles,Ozzy Osbourne,0.43458,0.4164,0.42905
-59,3,en_subtitles,Superman (2025 film),0.43458,0.4164,0.42928
-60,4,en_subtitles,Deaths in 2025,0.4412,0.4164,-0.0
-61,4,en_subtitles,Charlie Kirk,0.4412,0.4164,0.4231
-62,4,en_subtitles,ChatGPT,0.4412,0.4164,0.42474
-63,4,en_subtitles,Ed Gein,0.4412,0.4164,0.41886
-64,4,en_subtitles,Donald Trump,0.4412,0.4164,0.41888
-65,4,en_subtitles,Zohran Mamdani,0.4412,0.4164,0.42663
-66,4,en_subtitles,Elon Musk,0.4412,0.4164,0.42751
-67,4,en_subtitles,Sinners (2025 film),0.4412,0.4164,0.4299
-68,4,en_subtitles,Ozzy Osbourne,0.4412,0.4164,0.43118
-69,4,en_subtitles,Superman (2025 film),0.4412,0.4164,0.43087
-70,5,en_subtitles,Deaths in 2025,0.44165,0.4164,-0.0
-71,5,en_subtitles,Charlie Kirk,0.44165,0.4164,0.41812
-72,5,en_subtitles,ChatGPT,0.44165,0.4164,0.41423
-73,5,en_subtitles,Ed Gein,0.44165,0.4164,0.42002
-74,5,en_subtitles,Donald Trump,0.44165,0.4164,0.40265
-75,5,en_subtitles,Zohran Mamdani,0.44165,0.4164,0.42387
-76,5,en_subtitles,Elon Musk,0.44165,0.4164,0.41959
-77,5,en_subtitles,Sinners (2025 film),0.44165,0.4164,0.42917
-78,5,en_subtitles,Ozzy Osbourne,0.44165,0.4164,0.43087
-79,5,en_subtitles,Superman (2025 film),0.44165,0.4164,0.43033
+,n_comp,analysis,pages,lda,freq,lda_topviews
+0,2,dataset-wikipedia_randomSeed-754_maxSize-None,Deaths in 2025,0.34418,0.32782,-4e-05
+1,2,dataset-wikipedia_randomSeed-754_maxSize-None,Charlie Kirk,0.34418,0.32782,0.33996
+2,2,dataset-wikipedia_randomSeed-754_maxSize-None,ChatGPT,0.34418,0.32782,0.33215
+3,2,dataset-wikipedia_randomSeed-754_maxSize-None,Ed Gein,0.34418,0.32782,0.3442
+4,2,dataset-wikipedia_randomSeed-754_maxSize-None,Donald Trump,0.34418,0.32782,0.3316
+5,2,dataset-wikipedia_randomSeed-754_maxSize-None,Zohran Mamdani,0.34418,0.32782,0.33985
+6,2,dataset-wikipedia_randomSeed-754_maxSize-None,Elon Musk,0.34418,0.32782,0.33654
+7,2,dataset-wikipedia_randomSeed-754_maxSize-None,Sinners (2025 film),0.34418,0.32782,0.34304
+8,2,dataset-wikipedia_randomSeed-754_maxSize-None,Ozzy Osbourne,0.34418,0.32782,0.34205
+9,2,dataset-wikipedia_randomSeed-754_maxSize-None,Superman (2025 film),0.34418,0.32782,0.34314
+10,3,dataset-wikipedia_randomSeed-754_maxSize-None,Deaths in 2025,0.37036,0.32782,-0.0
+11,3,dataset-wikipedia_randomSeed-754_maxSize-None,Charlie Kirk,0.37036,0.32782,0.30064
+12,3,dataset-wikipedia_randomSeed-754_maxSize-None,ChatGPT,0.37036,0.32782,0.32896
+13,3,dataset-wikipedia_randomSeed-754_maxSize-None,Ed Gein,0.37036,0.32782,0.32724
+14,3,dataset-wikipedia_randomSeed-754_maxSize-None,Donald Trump,0.37036,0.32782,0.27607
+15,3,dataset-wikipedia_randomSeed-754_maxSize-None,Zohran Mamdani,0.37036,0.32782,0.29443
+16,3,dataset-wikipedia_randomSeed-754_maxSize-None,Elon Musk,0.37036,0.32782,0.30803
+17,3,dataset-wikipedia_randomSeed-754_maxSize-None,Sinners (2025 film),0.37036,0.32782,0.34196
+18,3,dataset-wikipedia_randomSeed-754_maxSize-None,Ozzy Osbourne,0.37036,0.32782,0.32972
+19,3,dataset-wikipedia_randomSeed-754_maxSize-None,Superman (2025 film),0.37036,0.32782,0.34404
+20,4,dataset-wikipedia_randomSeed-754_maxSize-None,Deaths in 2025,0.37406,0.32782,-0.0
+21,4,dataset-wikipedia_randomSeed-754_maxSize-None,Charlie Kirk,0.37406,0.32782,0.282
+22,4,dataset-wikipedia_randomSeed-754_maxSize-None,ChatGPT,0.37406,0.32782,0.31499
+23,4,dataset-wikipedia_randomSeed-754_maxSize-None,Ed Gein,0.37406,0.32782,0.31301
+24,4,dataset-wikipedia_randomSeed-754_maxSize-None,Donald Trump,0.37406,0.32782,0.24925
+25,4,dataset-wikipedia_randomSeed-754_maxSize-None,Zohran Mamdani,0.37406,0.32782,0.26763
+26,4,dataset-wikipedia_randomSeed-754_maxSize-None,Elon Musk,0.37406,0.32782,0.28193
+27,4,dataset-wikipedia_randomSeed-754_maxSize-None,Sinners (2025 film),0.37406,0.32782,0.32177
+28,4,dataset-wikipedia_randomSeed-754_maxSize-None,Ozzy Osbourne,0.37406,0.32782,0.30547
+29,4,dataset-wikipedia_randomSeed-754_maxSize-None,Superman (2025 film),0.37406,0.32782,0.32675
+30,5,dataset-wikipedia_randomSeed-754_maxSize-None,Deaths in 2025,0.37365,0.32782,-0.0
+31,5,dataset-wikipedia_randomSeed-754_maxSize-None,Charlie Kirk,0.37365,0.32782,0.26952
+32,5,dataset-wikipedia_randomSeed-754_maxSize-None,ChatGPT,0.37365,0.32782,0.29944
+33,5,dataset-wikipedia_randomSeed-754_maxSize-None,Ed Gein,0.37365,0.32782,0.30599
+34,5,dataset-wikipedia_randomSeed-754_maxSize-None,Donald Trump,0.37365,0.32782,0.23895
+35,5,dataset-wikipedia_randomSeed-754_maxSize-None,Zohran Mamdani,0.37365,0.32782,0.25541
+36,5,dataset-wikipedia_randomSeed-754_maxSize-None,Elon Musk,0.37365,0.32782,0.27257
+37,5,dataset-wikipedia_randomSeed-754_maxSize-None,Sinners (2025 film),0.37365,0.32782,0.31788
+38,5,dataset-wikipedia_randomSeed-754_maxSize-None,Ozzy Osbourne,0.37365,0.32782,0.30121
+39,5,dataset-wikipedia_randomSeed-754_maxSize-None,Superman (2025 film),0.37365,0.32782,0.32166
+40,2,dataset-opensubtitles_randomSeed-754_maxSize-None,Deaths in 2025,0.42189,0.4164,-0.0
+41,2,dataset-opensubtitles_randomSeed-754_maxSize-None,Charlie Kirk,0.42189,0.4164,0.42006
+42,2,dataset-opensubtitles_randomSeed-754_maxSize-None,ChatGPT,0.42189,0.4164,0.41863
+43,2,dataset-opensubtitles_randomSeed-754_maxSize-None,Ed Gein,0.42189,0.4164,0.42071
+44,2,dataset-opensubtitles_randomSeed-754_maxSize-None,Donald Trump,0.42189,0.4164,0.4176
+45,2,dataset-opensubtitles_randomSeed-754_maxSize-None,Zohran Mamdani,0.42189,0.4164,0.42109
+46,2,dataset-opensubtitles_randomSeed-754_maxSize-None,Elon Musk,0.42189,0.4164,0.41957
+47,2,dataset-opensubtitles_randomSeed-754_maxSize-None,Sinners (2025 film),0.42189,0.4164,0.4218
+48,2,dataset-opensubtitles_randomSeed-754_maxSize-None,Ozzy Osbourne,0.42189,0.4164,0.42166
+49,2,dataset-opensubtitles_randomSeed-754_maxSize-None,Superman (2025 film),0.42189,0.4164,0.42075
+50,3,dataset-opensubtitles_randomSeed-754_maxSize-None,Deaths in 2025,0.43458,0.4164,-0.0
+51,3,dataset-opensubtitles_randomSeed-754_maxSize-None,Charlie Kirk,0.43458,0.4164,0.42491
+52,3,dataset-opensubtitles_randomSeed-754_maxSize-None,ChatGPT,0.43458,0.4164,0.42406
+53,3,dataset-opensubtitles_randomSeed-754_maxSize-None,Ed Gein,0.43458,0.4164,0.42307
+54,3,dataset-opensubtitles_randomSeed-754_maxSize-None,Donald Trump,0.43458,0.4164,0.42037
+55,3,dataset-opensubtitles_randomSeed-754_maxSize-None,Zohran Mamdani,0.43458,0.4164,0.42731
+56,3,dataset-opensubtitles_randomSeed-754_maxSize-None,Elon Musk,0.43458,0.4164,0.42605
+57,3,dataset-opensubtitles_randomSeed-754_maxSize-None,Sinners (2025 film),0.43458,0.4164,0.42876
+58,3,dataset-opensubtitles_randomSeed-754_maxSize-None,Ozzy Osbourne,0.43458,0.4164,0.42905
+59,3,dataset-opensubtitles_randomSeed-754_maxSize-None,Superman (2025 film),0.43458,0.4164,0.42928
+60,4,dataset-opensubtitles_randomSeed-754_maxSize-None,Deaths in 2025,0.4412,0.4164,-0.0
+61,4,dataset-opensubtitles_randomSeed-754_maxSize-None,Charlie Kirk,0.4412,0.4164,0.4231
+62,4,dataset-opensubtitles_randomSeed-754_maxSize-None,ChatGPT,0.4412,0.4164,0.42474
+63,4,dataset-opensubtitles_randomSeed-754_maxSize-None,Ed Gein,0.4412,0.4164,0.41886
+64,4,dataset-opensubtitles_randomSeed-754_maxSize-None,Donald Trump,0.4412,0.4164,0.41888
+65,4,dataset-opensubtitles_randomSeed-754_maxSize-None,Zohran Mamdani,0.4412,0.4164,0.42663
+66,4,dataset-opensubtitles_randomSeed-754_maxSize-None,Elon Musk,0.4412,0.4164,0.42751
+67,4,dataset-opensubtitles_randomSeed-754_maxSize-None,Sinners (2025 film),0.4412,0.4164,0.4299
+68,4,dataset-opensubtitles_randomSeed-754_maxSize-None,Ozzy Osbourne,0.4412,0.4164,0.43118
+69,4,dataset-opensubtitles_randomSeed-754_maxSize-None,Superman (2025 film),0.4412,0.4164,0.43087
+70,5,dataset-opensubtitles_randomSeed-754_maxSize-None,Deaths in 2025,0.44165,0.4164,-0.0
+71,5,dataset-opensubtitles_randomSeed-754_maxSize-None,Charlie Kirk,0.44165,0.4164,0.41812
+72,5,dataset-opensubtitles_randomSeed-754_maxSize-None,ChatGPT,0.44165,0.4164,0.41423
+73,5,dataset-opensubtitles_randomSeed-754_maxSize-None,Ed Gein,0.44165,0.4164,0.42002
+74,5,dataset-opensubtitles_randomSeed-754_maxSize-None,Donald Trump,0.44165,0.4164,0.40265
+75,5,dataset-opensubtitles_randomSeed-754_maxSize-None,Zohran Mamdani,0.44165,0.4164,0.42387
+76,5,dataset-opensubtitles_randomSeed-754_maxSize-None,Elon Musk,0.44165,0.4164,0.41959
+77,5,dataset-opensubtitles_randomSeed-754_maxSize-None,Sinners (2025 film),0.44165,0.4164,0.42917
+78,5,dataset-opensubtitles_randomSeed-754_maxSize-None,Ozzy Osbourne,0.44165,0.4164,0.43087
+79,5,dataset-opensubtitles_randomSeed-754_maxSize-None,Superman (2025 film),0.44165,0.4164,0.43033
